@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon day2/part2.js --exec babel-node --presets es2015,stage-2"
+    "start": "nodemon day4/part2.js --exec babel-node --presets es2015,stage-2"
   },
   "license": "MIT",
   "dependencies": {
